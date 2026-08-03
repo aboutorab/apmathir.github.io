@@ -1,0 +1,9 @@
+1- Go to your dir in cmd and then run this:
+
+ python -m http.server 8000
+
+2- type this address in internet browser:
+
+ 127.0.0.1:8000
+
+3- enjoy your http local server.

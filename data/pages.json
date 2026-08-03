@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "درباره من",
+    "slug": "about",
+    "file": "about.html",
+    "published": "yes"
+  },
+  {
+    "id": 2,
+    "title": "تماس با من",
+    "slug": "contact",
+    "file": "contact.html",
+    "published": "yes"
+  }
+]

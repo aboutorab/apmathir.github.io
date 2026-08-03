@@ -1,0 +1,38 @@
+blog/
+├── index.html              ← صفحه اصلی (تغییر ندهید)
+├── assets/
+│   ├── css/
+│   │   └── style.css       ← استایل‌های سایت (تغییر ندهید)
+│   ├── js/
+│   │   ├── date-converter.js   ← تبدیل تاریخ شمسی
+│   │   ├── blog-engine.js      ← موتور اصلی وبلاگ
+│   │   ├── search-engine.js    ← موتور جستجو
+│   │   ├── pagination.js       ← صفحه‌بندی
+│   │   ├── menu-builder.js     ← ساخت منوها
+│   │   ├── router.js           ← مسیریابی و مدیریت
+│   │   └── main.js             ← راه‌اندازی اولیه
+│   ├── images/             ← تصاویر پست‌ها را اینجا بگذارید
+│   │   └── back.jpg        ← تصویر پس‌زمینه هدر
+│   └── fonts/
+│       └── vazirmatn/      ← فونت فارسی وزیرمتن
+│           ├── Vazirmatn-Regular.woff2
+│           └── Vazirmatn-Bold.woff2
+├── data/                   ← فایل‌های اطلاعات (اینجا ویرایش کنید)
+│   ├── postfiles.json      ← لیست فایل‌های JSON پست‌ها
+│   ├── posts-batch-1.json  ← اطلاعات پست‌های دسته اول
+│   ├── posts-batch-2.json  ← اطلاعات پست‌های دسته دوم
+│   ├── posts-batch-3.json  ← اطلاعات پست‌های دسته سوم
+│   ├── pages.json          ← اطلاعات صفحات ثابت
+│   ├── links.json          ← لینک‌های مفید
+│   ├── script.json         ← اسکریپت‌های خارجی کل وبلاگ
+│   └── favorite.json       ← یادداشت‌های منتخب ⭐
+├── posts/                  ← فایل‌های HTML پست‌ها
+│   ├── batch1/             ← زیرپوشه (اختیاری)
+│   │   ├── post1.html
+│   │   ├── post1-preview.html
+│   │   ├── post1.js        ← کد JS خارجی (اختیاری)
+│   │   └── post1.css       ← کد CSS خارجی (اختیاری)
+│   └── post2.html
+└── pages/                  ← فایل‌های HTML صفحات ثابت
+    ├── about.html
+    └── contact.html

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MathJax",
+    "script": " <script src=\"https://lib.arvancloud.ir/mathjax/3.2.2/es5/tex-svg.js\" crossorigin=\"anonymous\" referrerpolicy=\"no-referrer\"></script>"
+  },
+  {
+    "name": "Highlight.js",
+    "script": "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css\"><script src=\"https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js\"></script>"
+  }
+]
