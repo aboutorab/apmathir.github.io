@@ -4,13 +4,13 @@
     "date": "14050502",
     "tags": ["قضیه فیثاغورث"],
 	"subdir": "1405",
-    "file": "1405050201.html"
+    "file": "pythagorean-theorem.html"
   },
   {
     "id": 1405050200,
     "date": "14050502",
     "tags": ["ماشین حساب"],
-    "file": "1405050200.html",
+    "file": "calculator.html",
 	"subdir": "1405",
 	"title": "ماشین حساب با جاوا اسکریپت"
   },
@@ -19,6 +19,6 @@
     "date": "14050501",
     "tags": ["فرمول ریاضی", "MathJax"],
 	"subdir": "1405",
-    "file": "1405050101.html"
+    "file": "math-formula.html"
   }
 ]
